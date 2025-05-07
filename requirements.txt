@@ -1,0 +1,6 @@
+rich
+click
+python-magic
+chardet
+orjson
+json5
