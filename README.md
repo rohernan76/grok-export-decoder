@@ -1,5 +1,9 @@
 # Grok Export Decoder
 
+![Python](https://img.shields.io/badge/Python-3.11-blue.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Built by rohernan76](https://img.shields.io/badge/Built%20by-rohernan76-blueviolet?style=for-the-badge&logo=github)
+
 This tool helps you decode and convert raw export files from Grok (xAI's chatbot) into usable file formats like `.png`, `.json`, `.csv`, or `.txt`.
 
 ## 🧠 Why This Exists
